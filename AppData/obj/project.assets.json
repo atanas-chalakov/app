@@ -6148,20 +6148,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ac\\.nuget\\packages\\": {}
+    "C:\\Users\\atana\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ac\\source\\repos\\App\\AppData\\AppData.csproj",
+      "projectUniqueName": "F:\\C#\\App\\AppData\\AppData.csproj",
       "projectName": "AppData",
-      "projectPath": "C:\\Users\\ac\\source\\repos\\App\\AppData\\AppData.csproj",
-      "packagesPath": "C:\\Users\\ac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ac\\source\\repos\\App\\AppData\\obj\\",
+      "projectPath": "F:\\C#\\App\\AppData\\AppData.csproj",
+      "packagesPath": "C:\\Users\\atana\\.nuget\\packages\\",
+      "outputPath": "F:\\C#\\App\\AppData\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\atana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

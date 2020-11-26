@@ -14,15 +14,15 @@ namespace AppData
         {
             var path = Directory.GetCurrentDirectory();
             Console.WriteLine(path);
-            //options.UseSqlServer("");
-            options.UseSqlite("Data Source=blogging.db");
+            options.UseSqlServer("Data Source=DESKTOP-7TRC7N7\\SQLEXPRESS;Initial Catalog=master;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+            //options.UseSqlite("Data Source=blogging.db");
         }
            
     }
 
     public class Blog
     {
-        public int BlogId { get; set; }
+        public int ID { get; set; }
         public string Url { get; set; }
 
         public List<Post> Posts { get; } = new List<Post>();
@@ -30,11 +30,11 @@ namespace AppData
 
     public class Post
     {
-        public int PostId { get; set; }
+        public int ID { get; set; }
         public string Title { get; set; }
         public string Content { get; set; }
 
-        public int BlogId { get; set; }
-        public Blog Blog { get; set; }
+        //public int BlogId { get; set; }
+        //public Blog Blog { get; set; }
     }
 }
