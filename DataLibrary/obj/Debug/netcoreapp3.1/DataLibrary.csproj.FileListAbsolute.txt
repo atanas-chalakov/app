@@ -1,0 +1,9 @@
+F:\C#\App\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.deps.json
+F:\C#\App\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.dll
+F:\C#\App\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.pdb
+F:\C#\App\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
+F:\C#\App\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+F:\C#\App\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
+F:\C#\App\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csproj.CoreCompileInputs.cache
+F:\C#\App\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.dll
+F:\C#\App\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.pdb

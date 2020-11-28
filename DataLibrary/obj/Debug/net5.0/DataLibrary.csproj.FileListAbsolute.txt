@@ -1,0 +1,14 @@
+F:\C#\App\DataLibrary\bin\Debug\net5.0\DataLibrary.deps.json
+F:\C#\App\DataLibrary\bin\Debug\net5.0\DataLibrary.dll
+F:\C#\App\DataLibrary\bin\Debug\net5.0\ref\DataLibrary.dll
+F:\C#\App\DataLibrary\bin\Debug\net5.0\DataLibrary.pdb
+F:\C#\App\DataLibrary\obj\Debug\net5.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\App\DataLibrary\obj\Debug\net5.0\DataLibrary.AssemblyInfoInputs.cache
+F:\C#\App\DataLibrary\obj\Debug\net5.0\DataLibrary.AssemblyInfo.cs
+F:\C#\App\DataLibrary\obj\Debug\net5.0\DataLibrary.csproj.CoreCompileInputs.cache
+F:\C#\App\DataLibrary\obj\Debug\net5.0\DataLibrary.dll
+F:\C#\App\DataLibrary\obj\Debug\net5.0\ref\DataLibrary.dll
+F:\C#\App\DataLibrary\obj\Debug\net5.0\DataLibrary.pdb
+F:\C#\App\DataLibrary\bin\Debug\net5.0\DataLibrary.runtimeconfig.json
+F:\C#\App\DataLibrary\bin\Debug\net5.0\DataLibrary.runtimeconfig.dev.json
+F:\C#\App\DataLibrary\obj\Debug\net5.0\DataLibrary.genruntimeconfig.cache

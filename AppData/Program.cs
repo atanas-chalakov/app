@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using DataLibrary;
 
 namespace AppData
 {
@@ -7,18 +8,20 @@ namespace AppData
     {
         static void Main(string[] args)
         {
-            using (var db = new BloggingContext())
+            using (var db = new AppDbContext())
             {
                 // Create
+                var date = new DateTime();
                 Console.WriteLine("Inserting a new blog");
-                db.Add(new Blog { Url = "www.google.com"}); ;
+                //db.Add(new Blog { Url = "www.google.com"}); ;
+                db.Add(new Student { FirstMidName = "test", LastName = "last", EnrollmentDate =  DateTime.Now});
                 db.SaveChanges();
 
                 // Read
-                Console.WriteLine("Querying for a blog");
-                var blog = db.Blogs
-                    .OrderBy(b => b.ID)
-                    .First();
+                //Console.WriteLine("Querying for a blog");
+                //var blog = db.Blogs
+                //    .OrderBy(b => b.ID)
+                //    .First();
 
                 // Update
                 //Console.WriteLine("Updating the blog and adding a post");
