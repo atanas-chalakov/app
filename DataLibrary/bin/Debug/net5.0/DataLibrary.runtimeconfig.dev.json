@@ -3,7 +3,7 @@
     "additionalProbingPaths": [
       "C:\\Users\\atana\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\atana\\.nuget\\packages",
-      "C:\\Microsoft\\Xamarin\\NuGet"
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
     ]
   }
 }

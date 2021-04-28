@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using DataLibrary;
+using Microsoft.EntityFrameworkCore;
 
 namespace AppData
 {
@@ -10,11 +11,12 @@ namespace AppData
         {
             using (var db = new AppDbContext())
             {
+                db.Database.MigrateAsync();
                 // Create
-                var date = new DateTime();
+                //var date = new DateTime();
                 Console.WriteLine("Inserting a new blog");
                 //db.Add(new Blog { Url = "www.google.com"}); ;
-                db.Add(new Student { FirstMidName = "test", LastName = "last", EnrollmentDate =  DateTime.Now});
+                db.Add(new Student { FirstMidName = "Atanas", LastName = "TEST"});
                 db.SaveChanges();
 
                 // Read

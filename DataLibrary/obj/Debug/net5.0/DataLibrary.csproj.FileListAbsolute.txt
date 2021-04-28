@@ -12,3 +12,4 @@ F:\C#\App\DataLibrary\obj\Debug\net5.0\DataLibrary.pdb
 F:\C#\App\DataLibrary\bin\Debug\net5.0\DataLibrary.runtimeconfig.json
 F:\C#\App\DataLibrary\bin\Debug\net5.0\DataLibrary.runtimeconfig.dev.json
 F:\C#\App\DataLibrary\obj\Debug\net5.0\DataLibrary.genruntimeconfig.cache
+F:\C#\App\DataLibrary\obj\Debug\net5.0\DataLibrary.csprojAssemblyReference.cache

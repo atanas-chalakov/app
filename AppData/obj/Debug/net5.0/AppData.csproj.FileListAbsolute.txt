@@ -170,3 +170,13 @@ F:\C#\App\AppData\obj\Debug\net5.0\AppData.pdb
 F:\C#\App\AppData\obj\Debug\net5.0\AppData.genruntimeconfig.cache
 F:\C#\App\AppData\bin\Debug\net5.0\DataLibrary.dll
 F:\C#\App\AppData\bin\Debug\net5.0\DataLibrary.pdb
+F:\C#\App\AppData\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\C#\App\AppData\bin\Debug\net5.0\Google.Protobuf.dll
+F:\C#\App\AppData\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+F:\C#\App\AppData\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+F:\C#\App\AppData\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+F:\C#\App\AppData\bin\Debug\net5.0\MySql.Data.dll
+F:\C#\App\AppData\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+F:\C#\App\AppData\bin\Debug\net5.0\Zstandard.Net.dll
+F:\C#\App\AppData\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+F:\C#\App\AppData\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
